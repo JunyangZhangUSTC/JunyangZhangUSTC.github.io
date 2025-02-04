@@ -91,7 +91,7 @@ redirect_from:
       <!-- 第一张图片：60% -->
       <div style="flex:0 0 60%; margin-right:5%;">
         <!-- 图片裁剪容器：利用 padding-top 设置固定比例（这里采用16:9，56.25%） -->
-        <div style="position:relative; width:100%; overflow:hidden; padding-top:56.25%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:61%;">
           <img src="../images/IMG_8867.JPG" alt="摄影作品" 
                style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
@@ -100,7 +100,7 @@ redirect_from:
       </div>
       <!-- 第二张图片：30% -->
       <div style="flex:0 0 30%;">
-        <div style="position:relative; width:100%; overflow:hidden; padding-top:133.33%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:120%;">
           <img src="../images/DSC_2702.JPG" alt="摄影作品" 
                style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
