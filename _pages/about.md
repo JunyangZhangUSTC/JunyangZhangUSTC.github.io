@@ -37,7 +37,7 @@ redirect_from:
    *IEEE Conference on Computer Communications* **(IEEE TMC, CCF-A)**
 
 4. <span style="color: red; font-weight: bold;">[计算机学报]</span> **面向智能物联网的资源高效模型推理综述**  
-   袁牧，张兰，姚云昊，**张钧洋**，罗溥晗，李向阳
+   袁牧，张兰，姚云昊，**张钧洋**，罗溥晗，李向阳 
    *CHINESE JOURNAL OF COMPUTERS 计算机学报* **(中文CCF-A)**
 
 
