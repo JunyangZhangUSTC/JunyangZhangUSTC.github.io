@@ -40,11 +40,11 @@ redirect_from:
    袁牧，张兰，姚云昊，**张钧洋**，罗溥晗，李向阳.
    *CHINESE JOURNAL OF COMPUTERS 计算机学报* **(中文CCF-A)**
 
-5. [PrePrint]</span> **PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.**  
+5. [PrePrint] **PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.**  
    Huiyou Zhan, Xuan Zhang, Haisheng Tan, Han Tian, Dongping Yong, **Junyang Zhang**, Xiang-Yang Li.
    *arXiv*
  
-6. [PrePrint]</span> **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
+6. [PrePrint] **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
    Qihao Lin, Chen Tang, Lan zhang, **Junyang zhang**, Xiangyang Li.
    *arXiv* 
 
