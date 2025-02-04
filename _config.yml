@@ -22,12 +22,12 @@ repository               : "JunyangZhangUSTC/JunyangZhangUSTC.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_photo.jpg"
   name             : "张钧洋 Junyang Zhang"
   pronouns         : # example: "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Hefei, Anhui, China"
-  employer         : "中国科学技术大学（USTC）"
+  bio              : "行远自迩，笃行不怠。"
+  location         : "安徽合肥"
+  employer         : "中国科学技术大学"
   uri              : # URL
   email            : "zhangjunyang@mail.ustc.edu.cn" 
 
