@@ -89,19 +89,19 @@ redirect_from:
       <div style="flex:0 0 50%; margin-right:2%;">
         <!-- 图片裁剪容器：利用 padding-top 设置固定比例（这里采用16:9，56.25%） -->
         <div style="position:relative; width:100%; overflow:hidden; padding-top:55%;">
-          <img src="../images/IMG_8867.JPG" alt="摄影作品" style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
+          <img src="../images/IMG70.jpg" alt="摄影作品" style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
       </div>
       <!-- 第二张图片：23% -->
       <div style="flex:0 0 23%; margin-right:2%;">
         <div style="position:relative; width:100%; overflow:hidden; padding-top:120%;">
-          <img src="../images/DSC_2702.JPG" alt="摄影作品" style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
+          <img src="../images/IMG69.jpg" alt="摄影作品" style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
       </div>
     <!-- 第三张图片：23%，右侧间隔5% -->
       <div style="flex:0 0 23%">
         <div style="position:relative; width:100%; overflow:hidden; padding-top:120%;">
-          <img src="./images/DSC_4369_2.JPG" alt="摄影作品" style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
+          <img src="./images/IMG71.jpg" alt="摄影作品" style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
       </div>
     </div>
