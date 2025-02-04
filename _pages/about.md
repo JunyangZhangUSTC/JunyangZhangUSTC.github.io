@@ -84,12 +84,12 @@ redirect_from:
 
 
 <!-- 整体容器，宽度90%居中 -->
-  <div style="width:90%; margin:0 auto;">
+  <div style="width:80%; margin:0 auto;">
 
     <!-- 第一行：两张图片（60%和30%），两者之间留出10%的间隔 -->
-    <div style="display:flex; width:100%; margin-bottom:20px;">
+    <div style="display:flex; width:100%; margin-bottom:10px;">
       <!-- 第一张图片：60% -->
-      <div style="flex:0 0 60%; margin-right:10%;">
+      <div style="flex:0 0 60%; margin-right:5%;">
         <!-- 图片裁剪容器：利用 padding-top 设置固定比例（这里采用16:9，56.25%） -->
         <div style="position:relative; width:100%; overflow:hidden; padding-top:56.25%;">
           <img src="../images/IMG_8867.JPG" alt="摄影作品" 
@@ -100,7 +100,7 @@ redirect_from:
       </div>
       <!-- 第二张图片：30% -->
       <div style="flex:0 0 30%;">
-        <div style="position:relative; width:100%; overflow:hidden; padding-top:177.78%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:133.33%;">
           <img src="../images/DSC_2702.JPG" alt="摄影作品" 
                style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
@@ -109,7 +109,7 @@ redirect_from:
     </div>
 
     <!-- 第二行：一张100%宽的图片 -->
-    <div style="display:flex; width:100%; margin-bottom:20px;">
+    <div style="display:flex; width:100%; margin-bottom:10px;">
       <div style="flex:0 0 100%;">
         <div style="position:relative; width:100%; overflow:hidden; padding-top:42.56%;">
           <img src="../images/63c106c59b4b470f9535cde906e7c677.JPG" alt="摄影作品" 
@@ -120,18 +120,18 @@ redirect_from:
     </div>
 
     <!-- 第三行：三张图片，每张30%，第一二张右侧各留5%的间隔 -->
-    <div style="display:flex; width:100%; margin-bottom:20px;">
+    <div style="display:flex; width:100%; margin-bottom:10px;">
       <!-- 第一张图片：30%，右侧间隔5% -->
-      <div style="flex:0 0 30%; margin-right:5%;">
-        <div style="position:relative; width:100%; overflow:hidden; padding-top:177.78%;">
+      <div style="flex:0 0 30%; margin-right:3%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:133.33%;">
           <img src="./images/DSC_4369_2.JPG" alt="摄影作品" 
                style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
         <div style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">摄影</div>
       </div>
       <!-- 第二张图片：30%，右侧间隔5% -->
-      <div style="flex:0 0 30%; margin-right:5%;">
-        <div style="position:relative; width:100%; overflow:hidden; padding-top:177.78%;">
+      <div style="flex:0 0 30%; margin-right:3%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:133.33%;">
           <img src="../images/guitar.jpeg" alt="我的吉他" 
                style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
@@ -139,7 +139,7 @@ redirect_from:
       </div>
       <!-- 第三张图片：30% -->
       <div style="flex:0 0 30%;">
-        <div style="position:relative; width:100%; overflow:hidden; padding-top:177.78%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:133.33%;">
           <img src="../images/host.JPG" alt="主持晚会" 
                style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
