@@ -17,8 +17,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
     
-  - title: "Services"
-    url: "/#-academic-services"
+  - title: "Research"
+    url: "/#-Research"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Service"
+    url: "/#-Service"
