@@ -82,13 +82,70 @@ redirect_from:
 除了日常生活，我也喜欢摄影、音乐、主持、游戏，欢迎交流。我喜欢健身，但也喜欢美食，这两个爱好的效果经常互相抵消。我还喜欢折腾各种稀奇古怪的代码项目，自己想实现某些东西的coding是一种享受。既要努力工作、也要享受生活，螺旋上升方为持久之道。
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="../images/IMG_8867.JPG" alt="摄影作品" style="max-width: 60%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
-  <img src="../images/DSC_2702.JPG" alt="摄影作品" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
-  <img src="../images/63c106c59b4b470f9535cde906e7c677.JPG" alt="摄影作品" style="max-width: 100%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
-  <img src="../images/DSC_4369_2.JPG" alt="摄影作品" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
-  <img src="../images/guitar.jpeg" alt="我的吉他" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
-  <img src="../images/host.JPG" alt="主持晚会" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
-</div>
 
+<!-- 整体容器，宽度90%居中 -->
+  <div style="width:90%; margin:0 auto;">
+
+    <!-- 第一行：两张图片（60%和30%），两者之间留出10%的间隔 -->
+    <div style="display:flex; width:100%; margin-bottom:20px;">
+      <!-- 第一张图片：60% -->
+      <div style="flex:0 0 60%; margin-right:10%;">
+        <!-- 图片裁剪容器：利用 padding-top 设置固定比例（这里采用16:9，56.25%） -->
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:56.25%;">
+          <img src="../images/IMG_8867.JPG" alt="摄影作品" 
+               style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
+        </div>
+        <!-- 图片说明 -->
+        <div style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">摄影</div>
+      </div>
+      <!-- 第二张图片：30% -->
+      <div style="flex:0 0 30%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:56.25%;">
+          <img src="../images/DSC_2702.JPG" alt="摄影作品" 
+               style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
+        </div>
+        <div style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">摄影</div>
+      </div>
+    </div>
+
+    <!-- 第二行：一张100%宽的图片 -->
+    <div style="display:flex; width:100%; margin-bottom:20px;">
+      <div style="flex:0 0 100%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:56.25%;">
+          <img src="../images/63c106c59b4b470f9535cde906e7c677.JPG" alt="摄影作品" 
+               style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
+        </div>
+        <div style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">摄影</div>
+      </div>
+    </div>
+
+    <!-- 第三行：三张图片，每张30%，第一二张右侧各留5%的间隔 -->
+    <div style="display:flex; width:100%; margin-bottom:20px;">
+      <!-- 第一张图片：30%，右侧间隔5% -->
+      <div style="flex:0 0 30%; margin-right:5%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:56.25%;">
+          <img src="./images/DSC_4369_2.JPG" alt="摄影作品" 
+               style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
+        </div>
+        <div style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">摄影</div>
+      </div>
+      <!-- 第二张图片：30%，右侧间隔5% -->
+      <div style="flex:0 0 30%; margin-right:5%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:56.25%;">
+          <img src="../images/guitar.jpeg" alt="我的吉他" 
+               style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
+        </div>
+        <div style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">我的吉他</div>
+      </div>
+      <!-- 第三张图片：30% -->
+      <div style="flex:0 0 30%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:56.25%;">
+          <img src="../images/host.JPG" alt="主持晚会" 
+               style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
+        </div>
+        <div style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">主持晚会</div>
+      </div>
+    </div>
+
+  </div>
 
