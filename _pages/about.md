@@ -100,7 +100,7 @@ redirect_from:
       </div>
       <!-- 第二张图片：30% -->
       <div style="flex:0 0 30%;">
-        <div style="position:relative; width:100%; overflow:hidden; padding-top:56.25%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:177.78%;">
           <img src="../images/DSC_2702.JPG" alt="摄影作品" 
                style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
@@ -111,7 +111,7 @@ redirect_from:
     <!-- 第二行：一张100%宽的图片 -->
     <div style="display:flex; width:100%; margin-bottom:20px;">
       <div style="flex:0 0 100%;">
-        <div style="position:relative; width:100%; overflow:hidden; padding-top:56.25%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:42.56%;">
           <img src="../images/63c106c59b4b470f9535cde906e7c677.JPG" alt="摄影作品" 
                style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
@@ -123,7 +123,7 @@ redirect_from:
     <div style="display:flex; width:100%; margin-bottom:20px;">
       <!-- 第一张图片：30%，右侧间隔5% -->
       <div style="flex:0 0 30%; margin-right:5%;">
-        <div style="position:relative; width:100%; overflow:hidden; padding-top:56.25%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:177.78%;">
           <img src="./images/DSC_4369_2.JPG" alt="摄影作品" 
                style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
@@ -131,7 +131,7 @@ redirect_from:
       </div>
       <!-- 第二张图片：30%，右侧间隔5% -->
       <div style="flex:0 0 30%; margin-right:5%;">
-        <div style="position:relative; width:100%; overflow:hidden; padding-top:56.25%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:177.78%;">
           <img src="../images/guitar.jpeg" alt="我的吉他" 
                style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
@@ -139,7 +139,7 @@ redirect_from:
       </div>
       <!-- 第三张图片：30% -->
       <div style="flex:0 0 30%;">
-        <div style="position:relative; width:100%; overflow:hidden; padding-top:56.25%;">
+        <div style="position:relative; width:100%; overflow:hidden; padding-top:177.78%;">
           <img src="../images/host.JPG" alt="主持晚会" 
                style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
         </div>
