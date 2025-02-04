@@ -79,9 +79,16 @@ redirect_from:
 
 # 💫 Hobbies
 
-除了日常生活，我也喜欢摄影、音乐、主持、健身、游戏，欢迎交流。折腾各种稀奇古怪的代码项目也是我的爱好，没有ddl压力的有趣coding是一种享受。既要努力工作、也要享受生活，螺旋上升方为持久之道。
+除了日常生活，我也喜欢摄影、音乐、主持、游戏，欢迎交流。我喜欢健身，但也喜欢美食，这两个爱好的效果经常互相抵消。我还喜欢折腾各种稀奇古怪的代码项目，自己想实现某些东西的coding是一种享受。既要努力工作、也要享受生活，螺旋上升方为持久之道。
 
 
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="../images/IMG_8867.JPG" alt="摄影作品" style="max-width: 60%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
+  <img src="../images/DSC_2702.JPG" alt="摄影作品" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
+  <img src="../images/63c106c59b4b470f9535cde906e7c677.JPG" alt="摄影作品" style="max-width: 100%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
+  <img src="../images/DSC_4369_2.JPG" alt="摄影作品" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
+  <img src="../images/guitar.jpeg" alt="我的吉他" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
+  <img src="../images/host.JPG" alt="主持晚会" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
+</div>
 
 
