@@ -11,7 +11,6 @@ redirect_from:
 
 我正在中国科学技术大学（University of Science and Technology of China）攻读计算机专业博士，我的导师是李向阳教授（ACM Fellow, IEEE Fellow）。我的研究兴趣主要在复杂网络中的计算优化，包括人工智能模型推理优化（主要方向）、物联网智能感知和智能模型安全。欢迎通过邮件与我联系。
 
-我准备参加2025年秋招，努力ing...
 
 # 🎓 Education
 - **2022.09 - 至今**&emsp;中国科学技术大学 计算机学院 攻读计算机专业博士研究生。
@@ -116,3 +115,6 @@ redirect_from:
 
   </div>
 
+
+
+我准备参加2025年秋招，努力ing...
