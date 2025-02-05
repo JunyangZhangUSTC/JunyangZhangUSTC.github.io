@@ -28,13 +28,13 @@ redirect_from:
    **Junyang Zhang**, Mu Yuan, Ruiguang Zhong, Puhan Luo, Huiyou Zhan, Ningkang Zhang, Chengchen Hu, Xiangyang Li. 
    *The 39th Annual AAAI Conference on Artificial Intelligence* **(AAAI 2025, CCF-A)**
 
-2. <span style="color: red; font-weight: bold;">[INFOCOM'25]</span> **TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
+2. <span style="color: red; font-weight: bold;">[TMC'24]</span> **WordWhisper: Exploiting Real-Time, Hardware-Dependent IoT Communication Against Eavesdropping.**  
+   **Junyang Zhang**; Jiahui Hou; Ye Tian; Xiang-Yang Li. 
+   *IEEE Transactions on Mobile Computing* **(IEEE TMC, CCF-A)**
+
+3. <span style="color: red; font-weight: bold;">[INFOCOM'25]</span> **TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
    Bowen Zhang, **Junyang Zhang(共同一作)**, Jiahui Hou and Yixin Wang. 
    *IEEE Conference on Computer Communications* **(IEEE INFOCOM, CCF-A)**
-
-3. <span style="color: red; font-weight: bold;">[TMC'24]</span> **WordWhisper: Exploiting Real-Time, Hardware-Dependent IoT Communication Against Eavesdropping.**  
-   **Junyang Zhang**; Jiahui Hou; Ye Tian; Xiang-Yang Li. 
-   *IEEE Conference on Computer Communications* **(IEEE TMC, CCF-A)**
 
 4. <span style="color: red; font-weight: bold;">[计算机学报]</span> **面向智能物联网的资源高效模型推理综述**  
    袁牧，张兰，姚云昊，**张钧洋**，罗溥晗，李向阳.
