@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Personal Introduction"
+title: ""
 permalink: /english
 author_profile: true
 redirect_from:
