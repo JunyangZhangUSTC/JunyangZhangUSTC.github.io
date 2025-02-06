@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+**[中文](/) \| [English](/english)**
+
 # 👤 Bio
 
 我正在中国科学技术大学（University of Science and Technology of China）攻读计算机专业博士，我的导师是[李向阳教授](http://staff.ustc.edu.cn/~xiangyangli/)（ACM Fellow, IEEE Fellow）。我的研究兴趣主要在复杂网络中的计算优化，包括人工智能模型推理优化（主要方向）、物联网智能感知和智能模型安全。欢迎通过邮件与我联系。
