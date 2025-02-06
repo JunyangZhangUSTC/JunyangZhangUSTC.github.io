@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default"
-title                    : "Junyang Zhang's Homepage"
+title                    : "Junyang Zhang｜张钧洋"
 title_separator          : "-"
 name                     : &name "张钧洋"
 description              : &description "PhD Candidate, Computer Science, USTC"
