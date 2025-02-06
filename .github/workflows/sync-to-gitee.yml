@@ -26,7 +26,6 @@ jobs:
 
       - name: Replace "github" with "gitee"
         run: |
-          # 替换所有文件中的 "github" 为 "gitee"
           find . -type f -exec sed -i 's/github/gitee/g' {} +
 
       - name: Set up Gitee SSH
@@ -38,7 +37,6 @@ jobs:
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan -H gitee.com >> ~/.ssh/known_hosts
 
-      # 推送到 Gitee
       - name: Push to Gitee
         run: |
           git remote add gitee git@gitee.com:junyangzhangustc/junyangzhangustc.gitee.io.git
