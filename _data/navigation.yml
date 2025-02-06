@@ -4,10 +4,7 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main:
-  - title: "English"
-    url: "www.baidu.com"
-  
+main:  
   - title: "Bio"
     url: "/#-bio"
     
