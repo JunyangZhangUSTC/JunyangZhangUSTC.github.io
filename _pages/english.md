@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-**[【中文】](/)**
+**[中文](/) | [English](/english)**
 
 # 👤 Bio
 
@@ -41,7 +41,7 @@ I am currently a PhD candidate in Computer Science at the [University of Science
    *IEEE Transactions on Mobile Computing* **(IEEE TMC, CCF-A)**
 
 3. <span style="color: red; font-weight: bold;">[INFOCOM'25]</span> **TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
-   Bowen Zhang, **Junyang Zhang(共同一作)**, Jiahui Hou and Yixin Wang.  
+   Bowen Zhang, **Junyang Zhang(co-first author)**, Jiahui Hou and Yixin Wang.  
    *IEEE Conference on Computer Communications* **(IEEE INFOCOM, CCF-A)**
 
 4. <span style="color: red; font-weight: bold;">[计算机学报]</span> **面向智能物联网的资源高效模型推理综述**  
