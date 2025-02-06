@@ -6,7 +6,7 @@
 
 main:  
   - title: "English"
-    url: "/english/"
+    url: "/english"
     
   - title: "Bio"
     url: "/#-bio"
