@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "Junyang Zhang｜张钧洋"
 title_separator          : "-"
-name                     : &name "张钧洋"
-description              : &description "张钧洋(Junyang Zhang)的个人主页。张钧洋是中国科学技术大学(USTC)在读博士生，研究方向是智能模型推理优化。"
+name                     : &name "Junyang Zhang"
+description              : &description "Junyang Zhang's personal homepage. Junyang Zhang is a doctoral student at the University of Science and Technology of China (USTC), and his research direction is deep learning model inference."
 url                      : https://junyangzhangustc.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JunyangZhangUSTC/JunyangZhangUSTC.github.io"
@@ -26,8 +26,8 @@ author:
   name             : "张钧洋 Junyang Zhang"
   pronouns         : # example: "he/his"  
   bio              : "行远自迩，笃行不怠。"
-  location         : "安徽合肥"
-  employer         : "中国科学技术大学"
+  location         : "Hefei, China"
+  employer         : "USTC"
   uri              : ""
   email            : "zhangjunyang@mail.ustc.edu.cn" 
 
