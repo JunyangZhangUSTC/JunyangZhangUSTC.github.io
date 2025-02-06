@@ -6,7 +6,7 @@
 
 main:     
   - title: "Bio"
-    uri: "/#-bio"
+    url: "/#-bio"
     
   - title: "Education"
     url: '/#-education'
