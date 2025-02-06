@@ -36,17 +36,14 @@
 
 
 <script>
-        function checkAndRedirect() {
-            if (window.location.pathname === '/english') {
-                window.location.href = 'https://www.baidu.com';
-            }
-        }
-
-        window.addEventListener('load', checkAndRedirect);
-
-        window.addEventListener('popstate', checkAndRedirect);
-
-        window.addEventListener('hashchange', checkAndRedirect);
-    </script>
+  function checkAndRedirect() {
+    if (window.location.pathname === '/english') {
+      window.location.href = 'https://junyangzhangustc-en.github.io/';
+    }
+  }
+  window.addEventListener('load', checkAndRedirect);
+  window.addEventListener('popstate', checkAndRedirect);
+  window.addEventListener('hashchange', checkAndRedirect);
+</script>
 
 <!-- end custom head snippets -->
