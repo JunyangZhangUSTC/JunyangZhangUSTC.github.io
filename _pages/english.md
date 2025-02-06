@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-**[中文](/) | [English](/english)**
+**[中文](/) \| [English](/english)**
 
 # 👤 Bio
 
