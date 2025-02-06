@@ -42,13 +42,10 @@
             }
         }
 
-        // 页面加载时检查路径
         window.addEventListener('load', checkAndRedirect);
 
-        // 监听历史记录变化事件
         window.addEventListener('popstate', checkAndRedirect);
 
-        // 监听哈希变化事件
         window.addEventListener('hashchange', checkAndRedirect);
     </script>
 
