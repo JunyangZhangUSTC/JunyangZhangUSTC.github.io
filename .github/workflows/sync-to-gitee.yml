@@ -1,0 +1,45 @@
+name: Sync to Gitee
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Git
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      - name: Install sed
+        run: sudo apt-get install -y sed
+
+      - name: Replace "github" with "gitee"
+        run: |
+          # 替换所有文件中的 "github" 为 "gitee"
+          find . -type f -exec sed -i 's/github/gitee/g' {} +
+
+      - name: Set up Gitee SSH
+        env:
+          GITEE_SSH_PRIVATE_KEY: ${{ secrets.GITEE_SSH_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$GITEE_SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H gitee.com >> ~/.ssh/known_hosts
+
+      # 推送到 Gitee
+      - name: Push to Gitee
+        run: |
+          git remote add gitee git@gitee.com:junyangzhangustc/junyangzhangustc.gitee.io.git
+          git push gitee main
