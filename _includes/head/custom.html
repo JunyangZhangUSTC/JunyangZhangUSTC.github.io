@@ -34,4 +34,23 @@
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+
+<script>
+        // 检查当前路径是否为 /english
+        function checkAndRedirect() {
+            if (window.location.pathname === '/english') {
+                window.location.href = 'https://www.baidu.com';
+            }
+        }
+
+        // 页面加载时检查路径
+        window.addEventListener('load', checkAndRedirect);
+
+        // 监听历史记录变化事件
+        window.addEventListener('popstate', checkAndRedirect);
+
+        // 监听哈希变化事件
+        window.addEventListener('hashchange', checkAndRedirect);
+    </script>
+
 <!-- end custom head snippets -->
