@@ -47,9 +47,7 @@ redirect_from:
    Huiyou Zhan, Xuan Zhang, Haisheng Tan, Han Tian, Dongping Yong, **Junyang Zhang**, Xiang-Yang Li.   
    *arXiv*
  
-6. [PrePrint] **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
-   Qihao Lin, Chen Tang, Lan zhang, **Junyang zhang**, Xiangyang Li.   
-   *arXiv* 
+
 
 
 # 📝 Research
@@ -73,7 +71,7 @@ redirect_from:
 ### 模型安全
 
 模型推理安全：模型推理安全可以分为推理前（输入安全）、推理中（权重安全）和推理后（输出安全）。而从目标上来看，又分为计算过程中的全程数据保护（私密）和计算结束后的鉴权溯源（公开）。我和我的合作伙伴主要关注于智能模型计算后的鉴权溯源，保护各方的合法利益。
-- 【论文合作】DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models
+
 
 
 # 🌏 Service
