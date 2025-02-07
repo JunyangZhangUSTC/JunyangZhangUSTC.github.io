@@ -52,9 +52,6 @@ I am currently a PhD candidate in Computer Science at the [University of Science
    Huiyou Zhan, Xuan Zhang, Haisheng Tan, Han Tian, Dongping Yong, **Junyang Zhang**, Xiang-Yang Li.   
    *arXiv*
  
-6. [PrePrint] **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
-   Qihao Lin, Chen Tang, Lan zhang, **Junyang zhang**, Xiangyang Li.   
-   *arXiv* 
 
 
 # 📝 Research
@@ -78,7 +75,6 @@ Intelligent sensing: The deep integration of artificial intelligence and informa
 ### Model Security
 
 Model inference security: Model inference security can be divided into three stages: pre-inference (input security), during inference (weight security), and post-inference (output security). From a goal-oriented perspective, it can further be categorized into end-to-end data protection (privacy) during the computation process and authentication and traceability (public) after computation. My collaborators and I primarily focus on authentication and traceability of intelligent model computations post-inference, aiming to protect the legitimate interests of all parties involved.
-- **Collaborative Paper:** DERMARK: A Dynamic, Efficient, and Robust Multi-bit Watermark for Large Language Models.
 
 
 
