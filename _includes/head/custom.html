@@ -35,15 +35,22 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
-<!-- <script>
-  function checkAndRedirect() {
-    if (window.location.pathname === '/english') {
-      window.location.href = 'https://junyangzhangustc-en.github.io/';
-    }
-  }
-  window.addEventListener('load', checkAndRedirect);
-  window.addEventListener('popstate', checkAndRedirect);
-  window.addEventListener('hashchange', checkAndRedirect);
-</script> -->
+    <!-- 禁用右键、选中、快捷键、事件-->
+    <script>
+        document.addEventListener('contextmenu', function (e) {
+            e.preventDefault();
+        });
+        document.addEventListener('selectstart', function (e) {
+            e.preventDefault();
+        });
+        document.addEventListener('keydown', function (e) {
+            if ((e.ctrlKey || e.metaKey) && (e.key === 'c' || e.key === 'u' || e.key === 'p')) {
+                e.preventDefault();
+            }
+        });
+        document.addEventListener('copy', function (e) {
+            e.preventDefault();
+        });
+    </script>
 
 <!-- end custom head snippets -->
