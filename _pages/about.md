@@ -24,7 +24,7 @@ redirect_from:
 - **[2024.12]** 🎉 我以共同一作身份在**CCF A类会议INFCOM**上发表论文，感谢Bowen Zhang、Jiahui Hou等所有作者的努力！
 - **[2024.11]** 🎉 在 **泛在智能感知技术创新应用大赛** 中获得三等奖。
 - **[2024.10]** 🎉 我以合作者身份参与**CCF A类中文期刊计算机学报**上发表一篇论文，感谢老师的指导和每一位同学的努力！
-- **[2024.08]** 🎉 我以第一作者身份在**CCF A类期刊TMC(IF 7.7)**上发表一篇论文，感谢老师的指导和同学的帮助！
+- **[2024.08]** 🎉 我以第一作者身份在 **CCF A类期刊TMC（SCI影响因子7.7）** 上发表一篇论文，感谢老师的指导和同学的帮助！
 
 # 📚 Publications
 1. <span style="color: red; font-weight: bold;">[AAAI'25 Oral]</span> **A-VL: Adaptive Attention for Large Vision-Language Models.**  
@@ -33,7 +33,7 @@ redirect_from:
 
 2. <span style="color: red; font-weight: bold;">[TMC'24]</span> **WordWhisper: Exploiting Real-Time, Hardware-Dependent IoT Communication Against Eavesdropping.**  
    **Junyang Zhang**; Jiahui Hou; Ye Tian; Xiang-Yang Li.  
-   *IEEE Transactions on Mobile Computing* **(IEEE TMC, CCF-A)**
+   *IEEE Transactions on Mobile Computing* **(IEEE TMC, CCF-A, SCI, IF 7.7)**
 
 3. <span style="color: red; font-weight: bold;">[INFOCOM'25]</span> **TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
    Bowen Zhang, **Junyang Zhang(共同一作)**, Jiahui Hou and Yixin Wang.  
