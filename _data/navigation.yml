@@ -24,4 +24,4 @@ main:
     url: "/#-service"
 
   - title: "Blog Posts"
-    url: /year-archive/
+    url: "/tags/"
