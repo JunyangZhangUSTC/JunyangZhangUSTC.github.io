@@ -2,7 +2,7 @@
 title: 'Hello World!'
 date: 2025-01-29
 permalink: /posts/2025/01/hello-world/
-tags:
+categories:
   - 其他
 ---
 
