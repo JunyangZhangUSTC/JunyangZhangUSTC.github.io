@@ -2,8 +2,8 @@
 title: '论文阅读分享'
 date: 2025-02-10
 permalink: /posts/2025/02/paper-read/
-tags:
-  - Paper
+categories:
+  - Paper Read
 ---
 
 之后在这里专门开一个坑来写读论文的笔记，科技发展实在太快了，不写些笔记几年后回过头来真的是感觉没有留下什么。
