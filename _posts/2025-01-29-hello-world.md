@@ -1,7 +1,7 @@
 ---
 title: 'Hello World!'
 date: 2025-01-29
-permalink: /posts/2025/02/hello-world/
+permalink: /posts/2025/01/hello-world/
 tags:
   - 其他
 ---
