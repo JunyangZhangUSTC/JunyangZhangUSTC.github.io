@@ -1,5 +1,7 @@
 {% include base_path %}
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+
 <section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
@@ -12,5 +14,19 @@
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 
   <a href="https://service.weibo.com/share/share.php?url={{ base_path }}{{ page.url }}" class="btn btn--weibo" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Weibo"><i class="fab fa-weibo" aria-hidden="true"></i><span> Weibo</span></a>
+
+  <!-- 分享到微信（这里用生成二维码方式，需额外引入二维码生成库） -->
+  <button class="btn btn--wechat" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} WeChat" onclick="generateWechatQRCode('{{ base_path }}{{ page.url }}')"><i class="fab fa-weixin" aria-hidden="true"></i><span> WeChat</span></button>
+  <div id="wechat-qr-code"></div>
+
+  <script type="text/javascript">
+    function generateWechatQRCode(url) {
+      var qr = new QRCode(document.getElementById("wechat-qr-code"), {
+        text: url,
+        width: 128,
+        height: 128
+      });
+    }
+  </script>
   
 </section>
