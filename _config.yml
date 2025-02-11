@@ -119,7 +119,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   hide                   : true     # change to true to hide the RSS feed in the footer
-  path                   : /jzhang_tech_feed.xml  # blank (default) uses feed.xml
+  path                   :  # blank (default) uses feed.xml
 
 
 # SEO Related
@@ -308,7 +308,7 @@ plugins:
 
 # Mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
