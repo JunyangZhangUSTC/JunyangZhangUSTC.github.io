@@ -52,6 +52,9 @@ I am currently a PhD candidate in Computer Science at the [University of Science
    Huiyou Zhan, Xuan Zhang, Haisheng Tan, Han Tian, Dongping Yong, **Junyang Zhang**, Xiang-Yang Li.   
    *arXiv*
  
+6. [PrePrint] **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
+   Qihao Lin, Chen Tang, Lan zhang, **Junyang zhang**, Xiangyang Li.   
+   *arXiv* 
 
 
 # 📝 Research
