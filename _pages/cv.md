@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-Please see [Homepage]('/').
+Please see [Homepage](/).
