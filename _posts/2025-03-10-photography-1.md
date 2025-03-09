@@ -3,7 +3,7 @@ title: '在美国费城的摄影日志'
 date: 2025-03-08
 permalink: /posts/2025/03/photography-1/
 header:
-  teaser: "/images/blogs/971741532555_.pic.jpg"
+  teaser: "/blogs/971741532555_.pic.jpg"
 categories: 
   - Photography
 tags:
