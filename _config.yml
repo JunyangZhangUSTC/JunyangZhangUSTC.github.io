@@ -13,7 +13,7 @@ title                    : "Junyang Zhang｜张钧洋"
 title_separator          : "-"
 name                     : &name "Junyang Zhang"
 description              : &description "Junyang Zhang's personal homepage. Junyang Zhang is a doctoral student at the University of Science and Technology of China (USTC), and his research direction is deep learning model inference."
-url                      : https://jzhang.tech # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://junyangzhangustc.github.io/ # https://jzhang.tech # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JunyangZhangUSTC/JunyangZhangUSTC.github.io"
 
