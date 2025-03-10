@@ -20,7 +20,7 @@ redirect_from:
 - **2016.09 - 2020.06**&emsp;<a href="https://www.cqu.edu.cn/" style="color: inherit;">重庆大学(985)</a> 弘深学院/计算机学院 获得计算机专业本科学位。
 
 # 📰 News
-- **[2025.02]** 🎉 我在美国费城AAAI'25上进行了Oral，展示材料可参见[slides](/files/slides_2938_oral.pdf)，旅途摄影见[blog](/posts/2025/03/photography-1/)。
+- **[2025.02]** 🎉 我在美国费城AAAI'25上进行了Oral报告，展示材料可参见[slides](/files/slides_2938_oral.pdf)，旅途摄影分享见[blog](/posts/2025/03/photography-1/)。
 - **[2025.02]** 🎉 [USTC DeepSeek](https://chat.ustc.edu.cn/)正式上线！我深度参与学校的DeepSeek服务开发中，并负责了昇腾集群上的模型部署和一些其他辅助工作，也踩了不少坑，可以参见[blog](/posts/2025/02/thinking-4/)。
 - **[2024.12]** 🎉 我们与蔚来汽车公司的智能座舱大模型推理优化合作项目圆满结束，我以第一作者发表论文工作被**CCF A类会议AAAI**录用！
 - **[2024.12]** 🎉 我以共同一作身份在**CCF A类会议INFCOM**上发表论文，感谢Bowen Zhang、Jiahui Hou等所有作者的努力！
