@@ -121,3 +121,5 @@ redirect_from:
 
 <br>
 
+
+{% include image-gallery.html folder="/images/album" %}
