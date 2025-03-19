@@ -35,7 +35,43 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
+<script>
 
+document.addEventListener('copy', function (e) {
+
+    const MIN_LENGTH = 200; 
+    const SIGNATURE = '\n\n本文转载自 [Junyang Zhang｜张钧洋 主页](https://jzhang.tech/)，保留所有权利。';
+    const TIP_MESSAGE = '（已自动附加转载声明）';
+
+    const selection = window.getSelection().toString().trim();
+    if (!selection) return; 
+
+    const contentLength = Array.from(selection).length; 
+
+    if (contentLength < MIN_LENGTH) {
+        console.log(`复制内容较短（${contentLength}/${MIN_LENGTH}字符），不附加声明`);
+        return;
+    }
+
+    const textToCopy = `${selection}${SIGNATURE}${TIP_MESSAGE}`;
+
+    e.preventDefault();
+    if (navigator.clipboard) { 
+        navigator.clipboard.writeText(textToCopy)
+            .then(() => console.log(`已复制大段内容（${contentLength}字符），附加声明成功`));
+    } else if (e.clipboardData) { 
+        e.clipboardData.setData('text/plain', textToCopy);
+    }
+
+    if (document.queryCommandSupported('copy')) {
+        document.execCommand('copy', false, {
+            html: htmlToCopy, 
+            text: textToCopy 
+        });
+    }
+});
+    
+</script>
 
     <!-- 禁用右键、选中、快捷键、事件-->
 <!--    <script>
