@@ -35,7 +35,7 @@ redirect_from:
 
 2. <span style="color: red; font-weight: bold;">[TMC'24]</span> **WordWhisper: Exploiting Real-Time, Hardware-Dependent IoT Communication Against Eavesdropping.**  
    **Junyang Zhang**; Jiahui Hou; Ye Tian; Xiang-Yang Li.  
-   *IEEE Transactions on Mobile Computing* **(IEEE TMC, CCF-A, JCR Q1, IF 7.7)**
+   *IEEE Transactions on Mobile Computing* **(IEEE TMC, CCF-A, 中科院一区Top, JCR Q1)**
 
 3. <span style="color: red; font-weight: bold;">[INFOCOM'25]</span> **TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
    Bowen Zhang, **Junyang Zhang(共同一作)**, Jiahui Hou and Yixin Wang.  
