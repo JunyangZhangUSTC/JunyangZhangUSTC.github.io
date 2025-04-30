@@ -20,6 +20,7 @@ redirect_from:
 - **2016.09 - 2020.06**&emsp;<a href="https://www.cqu.edu.cn/" style="color: inherit;">重庆大学(985)</a> 弘深学院/计算机学院 获得计算机专业本科学位。
 
 # 📰 News
+- **[2025.04]** 🎉 我以第一作者身份在 **CCF B类会议IWQoS 2025** 上发表了一篇论文，感谢老师的指导和同学的帮助！
 - **[2025.02]** 🎉 我在美国费城AAAI'25上进行了Oral报告，展示材料可参见[slides](/files/slides_2938_oral.pdf)，旅途摄影分享见[blog](/posts/2025/03/photography-1/)。
 - **[2025.02]** 🎉 [USTC DeepSeek](https://chat.ustc.edu.cn/)正式上线！我深度参与学校的DeepSeek服务开发中，并负责了昇腾集群上的模型部署和一些其他辅助工作，也踩了不少坑，可以参见[blog](/posts/2025/02/thinking-4/)。
 - **[2024.12]** 🎉 我们与蔚来汽车公司的智能座舱大模型推理优化合作项目圆满结束，我以第一作者发表论文工作被**CCF A类会议AAAI**录用！
@@ -41,15 +42,19 @@ redirect_from:
    Bowen Zhang, **Junyang Zhang(共同一作)**, Jiahui Hou and Yixin Wang.  
    *IEEE Conference on Computer Communications* **(IEEE INFOCOM, CCF-A)**
 
-4. <span style="color: red; font-weight: bold;">[计算机学报]</span> **面向智能物联网的资源高效模型推理综述**  
+4. <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.**  
+   **Junyang Zhang**, Jiahui Hou, Bowen Zhang and Xiang-Yang Li.  
+   *IEEE/ACM International Symposium on Quality of Service* **(IEEE/ACM IWQoS, CCF-B)**
+   
+5. <span style="color: red; font-weight: bold;">[计算机学报]</span> **面向智能物联网的资源高效模型推理综述**  
    袁牧，张兰，姚云昊，**张钧洋**，罗溥晗，李向阳.   
    *CHINESE JOURNAL OF COMPUTERS 计算机学报* **(中文CCF-A)**
 
-5. [PrePrint] **PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.**  
+6. [PrePrint] **PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.**  
    Huiyou Zhan, Xuan Zhang, Haisheng Tan, Han Tian, Dongping Yong, **Junyang Zhang**, Xiang-Yang Li.   
    *arXiv*
  
-6. [PrePrint] **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
+7. [PrePrint] **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
    Qihao Lin, Chen Tang, Lan zhang, **Junyang zhang**, Xiangyang Li.   
    *arXiv* 
 
@@ -63,6 +68,7 @@ redirect_from:
 - 【应用项目】**华为校企合作项目“端侧AI能效比提升”**中负责研究异构算力下的大模型分布式推理优化，提升异构算力下的推理吞吐，提高资源利用率。
 - 【应用项目】**百度校企合作项目“面向ESG专业领域问答系统”**中参与研发行业知识库和大模型问答系统，针对垂直领域知识问答进行真实系统优化。
 - 【论文一作】【CCF A】A-VL: Adaptive Attention for Large Vision-Language Models.
+- 【论文一作】【CCF B】Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.
 - 【论文共一】【CCF A】TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.
 - 【论文合作】PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.
 - 【论文合作】【CCF A】面向智能物联网的资源高效模型推理综述。
