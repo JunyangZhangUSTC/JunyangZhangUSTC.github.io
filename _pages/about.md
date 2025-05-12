@@ -11,7 +11,7 @@ redirect_from:
 
 # 👤 Bio
 
-我正在中国科学技术大学（University of Science and Technology of China）攻读计算机专业博士，我的导师是[李向阳教授](https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm)（ACM Fellow, IEEE Fellow）。我的研究兴趣是复杂网络中人工智能模型推理优化（主要方向），也涉及研究物联网智能感知领域。欢迎通过邮件与我联系。
+我正在中国科学技术大学（University of Science and Technology of China）攻读计算机专业博士，我的导师是[李向阳教授](https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm)（ACM Fellow, IEEE Fellow）。我的研究兴趣是**复杂网络中人工智能模型推理优化**（主要方向），也涉及研究物联网智能感知领域。欢迎通过邮件与我联系。
 
 
 # 🎓 Education
