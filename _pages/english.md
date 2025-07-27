@@ -24,6 +24,7 @@ I am currently a PhD candidate in Computer Science at the [University of Science
 
 # 📰 News
 
+- **[Apr 2025]** 🎉  I published a paper as a first author at the **CCF B-level conference IWQoS**, thanks to the hard work of all the co-authors!
 - **[Dec 2024]** 🎉 Our collaboration project on intelligent cockpit model inference optimization with NIO Inc. has been successfully completed, and the paper, where I am the first author, has been accepted by the **CCF A-level conference AAAI**!
 - **[Dec 2024]** 🎉 I published a paper as a co-first author at the **CCF A-level conference INFCOM**, thanks to the hard work of Bowen Zhang, Jiahui Hou, and all the co-authors!
 - **[Nov 2024]** 🎉 Awarded third place in the **泛在智能感知技术创新应用大赛**.
@@ -38,21 +39,25 @@ I am currently a PhD candidate in Computer Science at the [University of Science
 
 2. <span style="color: red; font-weight: bold;">[TMC'24]</span> **WordWhisper: Exploiting Real-Time, Hardware-Dependent IoT Communication Against Eavesdropping.**  
    **Junyang Zhang**; Jiahui Hou; Ye Tian; Xiang-Yang Li.  
-   *IEEE Transactions on Mobile Computing* **(IEEE TMC, CCF-A)**
+   *IEEE Transactions on Mobile Computing* **(IEEE TMC, CCF-A, JCR Q1)**
 
 3. <span style="color: red; font-weight: bold;">[INFOCOM'25]</span> **TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
    Bowen Zhang, **Junyang Zhang(co-first author)**, Jiahui Hou and Yixin Wang.  
    *IEEE Conference on Computer Communications* **(IEEE INFOCOM, CCF-A)**
 
-4. <span style="color: red; font-weight: bold;">[计算机学报]</span> **面向智能物联网的资源高效模型推理综述**  
+4. <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.**  
+   **Junyang Zhang**, Jiahui Hou, Bowen Zhang and Xiang-Yang Li.  
+   *IEEE/ACM International Symposium on Quality of Service* **(IEEE/ACM IWQoS, CCF-B)**
+
+5. <span style="color: red; font-weight: bold;">[计算机学报]</span> **面向智能物联网的资源高效模型推理综述**  
    袁牧，张兰，姚云昊，**张钧洋**，罗溥晗，李向阳.   
    *CHINESE JOURNAL OF COMPUTERS 计算机学报* **(中文CCF-A)**
 
-5. [PrePrint] **PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.**  
+6. [PrePrint] **PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.**  
    Huiyou Zhan, Xuan Zhang, Haisheng Tan, Han Tian, Dongping Yong, **Junyang Zhang**, Xiang-Yang Li.   
    *arXiv*
  
-6. [PrePrint] **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
+7. [PrePrint] **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
    Qihao Lin, Chen Tang, Lan zhang, **Junyang zhang**, Xiangyang Li.   
    *arXiv* 
 
@@ -66,6 +71,7 @@ Model inference optimization (primary research focus): This area addresses perfo
 - **Application Project:** Independently responsible for research on distributed inference optimization for large models under heterogeneous computing power in the **Huawei Industry-University Collaboration Project** "AI Efficiency Improvement on the Edge", aiming to enhance inference throughput and improve resource utilization under heterogeneous computing environments.
 - **Application Project:** Participated in the development of an industry knowledge base and large model Q&A system in the **Baidu Industry-University Collaboration Project** "ESG Domain-Specific Question Answering System", focusing on real system optimization for vertical domain knowledge Q&A.
 - **First Author Paper:** **[CCF A]** A-VL: Adaptive Attention for Large Vision-Language Models.
+- **First Author Paper:** **[CCF B]** Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.
 - **Co-first Author Paper:** **[CCF A]** TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.
 - **Collaborative Paper:** PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.
 - **Collaborative Paper:** **[CCF A]** 面向智能物联网的资源高效模型推理综述。
