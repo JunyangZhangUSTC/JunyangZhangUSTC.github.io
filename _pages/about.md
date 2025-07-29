@@ -30,31 +30,31 @@ redirect_from:
 - **[2024.08]** 🎉 我以第一作者身份在 **CCF A类期刊TMC(SCI一区Top)** 上发表一篇论文，感谢老师的指导和同学的帮助！
 
 # 📚 Publications
-1. <span style="color: red; font-weight: bold;">[AAAI'25 Oral]</span> **A-VL: Adaptive Attention for Large Vision-Language Models.**  
+1. <span style="color: red; font-weight: bold;">[AAAI'25 Oral]</span> **A-VL: Adaptive Attention for Large Vision-Language Models.**  [[paper](https://arxiv.org/abs/2409.14846)] [[code](https://github.com/jyzzz98/A-VL-Adaptive-Attention-for-Large-Vision-Language-Models)] [[slide](/files/slides_2938_oral.pdf)]  
    **Junyang Zhang**, Mu Yuan, Ruiguang Zhong, Puhan Luo, Huiyou Zhan, Ningkang Zhang, Chengchen Hu, Xiangyang Li.  
    *The 39th Annual AAAI Conference on Artificial Intelligence* **(AAAI 2025, CCF-A)**
 
-2. <span style="color: red; font-weight: bold;">[TMC'24]</span> **WordWhisper: Exploiting Real-Time, Hardware-Dependent IoT Communication Against Eavesdropping.**  
+3. <span style="color: red; font-weight: bold;">[TMC'24]</span> **WordWhisper: Exploiting Real-Time, Hardware-Dependent IoT Communication Against Eavesdropping.**  
    **Junyang Zhang**; Jiahui Hou; Ye Tian; Xiang-Yang Li.  
    *IEEE Transactions on Mobile Computing* **(IEEE TMC, CCF-A, 中科院一区Top, JCR Q1)**
 
-3. <span style="color: red; font-weight: bold;">[INFOCOM'25]</span> **TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
+4. <span style="color: red; font-weight: bold;">[INFOCOM'25]</span> **TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
    Bowen Zhang, **Junyang Zhang(共同一作)**, Jiahui Hou and Yixin Wang.  
    *IEEE Conference on Computer Communications* **(IEEE INFOCOM, CCF-A)**
 
-4. <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.**  
+5. <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.**  
    **Junyang Zhang**, Jiahui Hou, Bowen Zhang and Xiang-Yang Li.  
    *IEEE/ACM International Symposium on Quality of Service* **(IEEE/ACM IWQoS, CCF-B)**
    
-5. <span style="color: red; font-weight: bold;">[计算机学报]</span> **面向智能物联网的资源高效模型推理综述**  
+6. <span style="color: red; font-weight: bold;">[计算机学报]</span> **面向智能物联网的资源高效模型推理综述**  
    袁牧，张兰，姚云昊，**张钧洋**，罗溥晗，李向阳.   
    *CHINESE JOURNAL OF COMPUTERS 计算机学报* **(中文CCF-A)**
 
-6. [PrePrint] **PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.**  
+7. [PrePrint] **PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.**  
    Huiyou Zhan, Xuan Zhang, Haisheng Tan, Han Tian, Dongping Yong, **Junyang Zhang**, Xiang-Yang Li.   
    *arXiv*
  
-7. [PrePrint] **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
+8. [PrePrint] **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
    Qihao Lin, Chen Tang, Lan zhang, **Junyang zhang**, Xiangyang Li.   
    *arXiv* 
 
