@@ -8,8 +8,8 @@ main:
   - title: "Bio"
     url: "/#-bio"
     
-  - title: "Education"
-    url: '/#-education'
+  - title: "CV"
+    url: '/files/张钧洋_USTC_CV_online.pdf'
 
   - title: "News"
     url: "/#-news"   
