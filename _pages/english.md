@@ -14,52 +14,57 @@ redirect_from:
 
 # 👤 Bio
 
-I am currently a PhD candidate in Computer Science at the [University of Science and Technology of China (USTC)](https://ustc.edu.cn/), under the supervision of [Professor Xiangyang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). My research interests focus on optimization in complex networks, including optimization of deep learning model inference ((primary research focus)), intelligent sensing in the Internet of Things, and security of intelligent models. Feel free to contact me via email.
+I am currently a postdoctoral researcher in the School of Computer Science at the [University of Science and Technology of China (USTC)](https://ustc.edu.cn/), working with the LINKE laboratory. During my doctoral studies, I was supervised by [Professor Xiangyang Li](https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm) (ACM Fellow, IEEE Fellow). My research interests mainly include efficient inference and industrial intelligence, with additional interests in intelligent sensing and intelligent-model security. My [CV](/files/CV_Junyang_Zhang.pdf) is available for download.
 
 # 🎓 Education
 
-- **2022.09 - Present**&emsp;<a href="https://ustc.edu.cn/" style="color: inherit;">University of Science and Technology of China</a>, School of Computer Science, pursuing a PhD in Computer Science.
+- **2022.09 - 2026**&emsp;<a href="https://ustc.edu.cn/" style="color: inherit;">University of Science and Technology of China</a>, School of Computer Science, PhD in Computer Science.
 - **2020.09 - 2022.06**&emsp;<a href="https://ustc.edu.cn/" style="color: inherit;">University of Science and Technology of China</a>, School of Computer Science, pursuing a Master's degree in Computer Science.
 - **2016.09 - 2020.06**&emsp;<a href="https://www.cqu.edu.cn/" style="color: inherit;">Chongqing University</a>, Hongshen School/Computer Science School, obtained a Bachelor's degree in Computer Science.
 
 # 📰 News
+- **[Oct 2026]** 🎓 Graduated with a PhD in Computer Science from the School of Computer Science, USTC.
 
-- **[Apr 2025]** 🎉  I published a paper as a first author at the **CCF B-level conference IWQoS**, thanks to the hard work of all the co-authors!
-- **[Dec 2024]** 🎉 Our collaboration project on intelligent cockpit model inference optimization with NIO Inc. has been successfully completed, and the paper, where I am the first author, has been accepted by the **CCF A-level conference AAAI**!
-- **[Dec 2024]** 🎉 I published a paper as a co-first author at the **CCF A-level conference INFCOM**, thanks to the hard work of Bowen Zhang, Jiahui Hou, and all the co-authors!
-- **[Nov 2024]** 🎉 Awarded third place in the **泛在智能感知技术创新应用大赛**.
-- **[Oct 2024]** 🎉 As a co-author, I contributed to a paper published in the **CCF A-level Chinese journal Journal of Computer Science and Technology**. Many thanks to my mentors and every colleague for their effort!
-- **[Aug 2024]** 🎉 As the first author, I published a paper in the **CCF A-level journal TMC**, and I am grateful for the guidance from my mentors and the support from my colleagues!
+# 🏅 Awards
+- **2026** Chinese Academy of Sciences President's Award
+- **2025** National Scholarship for PhD Students
+- **2025** China Association for Science and Technology Young Elite Scientists Sponsorship Program (PhD Student Special)
 
 # 📚 Publications
 
-1. <span style="color: red; font-weight: bold;">[AAAI'25 Oral]</span> **A-VL: Adaptive Attention for Large Vision-Language Models.**  
+1. **A-VL: Adaptive Attention for Large Vision-Language Models.**  
    **Junyang Zhang**, Mu Yuan, Ruiguang Zhong, Puhan Luo, Huiyou Zhan, Ningkang Zhang, Chengchen Hu, Xiangyang Li.  
-   *The 39th Annual AAAI Conference on Artificial Intelligence* **(AAAI 2025, CCF-A)**
+   *AAAI 2025*, 39(21): 22461–22469. (First author)
 
-2. <span style="color: red; font-weight: bold;">[TMC'24]</span> **WordWhisper: Exploiting Real-Time, Hardware-Dependent IoT Communication Against Eavesdropping.**  
-   **Junyang Zhang**; Jiahui Hou; Ye Tian; Xiang-Yang Li.  
-   *IEEE Transactions on Mobile Computing* **(IEEE TMC, CCF-A, JCR Q1)**
+2. **WordWhisper: Exploiting Real-Time, Hardware-Dependent IoT Communication Against Eavesdropping.**  
+   **Junyang Zhang**, Jiahui Hou, Ye Tian, Xiang-Yang Li.  
+   *IEEE Transactions on Mobile Computing*, 2025, 24(1): 15–29. (First author)
 
-3. <span style="color: red; font-weight: bold;">[INFOCOM'25]</span> **TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
-   Bowen Zhang, **Junyang Zhang(co-first author)**, Jiahui Hou and Yixin Wang.  
-   *IEEE Conference on Computer Communications* **(IEEE INFOCOM, CCF-A)**
+3. **Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.**  
+   **Junyang Zhang**, Jiahui Hou, Bowen Zhang, Xiang-Yang Li.  
+   *IEEE/ACM IWQoS 2025*: 1–10. (First author)
 
-4. <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.**  
-   **Junyang Zhang**, Jiahui Hou, Bowen Zhang and Xiang-Yang Li.  
-   *IEEE/ACM International Symposium on Quality of Service* **(IEEE/ACM IWQoS, CCF-B)**
+4. **TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
+   Bowen Zhang, **Junyang Zhang**, Jiahui Hou, Yixin Wang.  
+   *IEEE INFOCOM 2025*: 1–10. (Co-first author)
 
-5. <span style="color: red; font-weight: bold;">[计算机学报]</span> **面向智能物联网的资源高效模型推理综述**  
-   袁牧，张兰，姚云昊，**张钧洋**，罗溥晗，李向阳.   
-   *CHINESE JOURNAL OF COMPUTERS 计算机学报* **(中文CCF-A)**
+5. **LightMoE: Task-Aware Expert Availability Management for Memory-Efficient MoE-LLM Inference.**  
+   P. Luo, Y. Yao, J. Wang, **Junyang Zhang**, X.-Y. Li.  
+   *Findings of ACL 2026*: 21124–21134. (Corresponding author)
 
-6. [PrePrint] **PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.**  
-   Huiyou Zhan, Xuan Zhang, Haisheng Tan, Han Tian, Dongping Yong, **Junyang Zhang**, Xiang-Yang Li.   
-   *arXiv*
- 
-7. [PrePrint] **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
-   Qihao Lin, Chen Tang, Lan zhang, **Junyang zhang**, Xiangyang Li.   
-   *arXiv* 
+6. **CALSI: Context-Aware Layer Skipping Inference for On-Device LLM Serving.**  
+   Puhan Luo, Mu Yuan, Ningkang Zhang, Ruiguang Zhong, **Junyang Zhang**, Chengchen Hu, Xiang-Yang Li.  
+   *IEEE Transactions on Mobile Computing*, 2026, 25(10): 17863–17878. (Corresponding author)
+
+7. **FlexiTensor: Adaptive Multi-Task Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
+   Bowen Zhang, Jiahui Hou, **Junyang Zhang**.  
+   *IEEE Transactions on Parallel and Distributed Systems*, 2026, 37(9): 2078–2094. (Collaborative paper)
+
+8. **面向智能物联网的资源高效模型推理综述**  
+   袁牧，张兰，姚云昊，**张钧洋**，罗溥晗，李向阳。  
+   *计算机学报*，2024，47(10)：2247–2273。（Collaborative paper）
+
+[Additional preprints are available on arXiv.]
 
 
 # 📝 Research
@@ -70,11 +75,13 @@ Model inference optimization (primary research focus): This area addresses perfo
 - **Application Project:** Independently responsible for research on multimodal large model computational optimization in the **NIO Industry-University Collaboration Project** "Intelligent Cockpit Inference Optimization Based on Large Models", aiming to reduce computational load, decrease inference latency, and minimize KV Cache memory usage.
 - **Application Project:** Independently responsible for research on distributed inference optimization for large models under heterogeneous computing power in the **Huawei Industry-University Collaboration Project** "AI Efficiency Improvement on the Edge", aiming to enhance inference throughput and improve resource utilization under heterogeneous computing environments.
 - **Application Project:** Participated in the development of an industry knowledge base and large model Q&A system in the **Baidu Industry-University Collaboration Project** "ESG Domain-Specific Question Answering System", focusing on real system optimization for vertical domain knowledge Q&A.
-- **First Author Paper:** **[CCF A]** A-VL: Adaptive Attention for Large Vision-Language Models.
-- **First Author Paper:** **[CCF B]** Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.
-- **Co-first Author Paper:** **[CCF A]** TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.
-- **Collaborative Paper:** PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.
-- **Collaborative Paper:** **[CCF A]** 面向智能物联网的资源高效模型推理综述。
+- **First Author, AAAI 2025:** A-VL: Adaptive Attention for Large Vision-Language Models.
+- **First Author, IWQoS 2025:** Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.
+- **Co-first Author, INFOCOM 2025:** TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.
+- **Corresponding Author, Findings of ACL 2026:** LightMoE: Task-Aware Expert Availability Management for Memory-Efficient MoE-LLM Inference.
+- **Corresponding Author, IEEE TMC 2026:** CALSI: Context-Aware Layer Skipping Inference for On-Device LLM Serving.
+- **Collaborative Paper, IEEE TPDS 2026:** FlexiTensor: Adaptive Multi-Task Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.
+- **Collaborative Paper:** 面向智能物联网的资源高效模型推理综述。
 
 ### Intelligent Sensing
 

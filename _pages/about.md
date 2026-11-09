@@ -11,52 +11,56 @@ redirect_from:
 
 # 👤 Bio
 
-我正在中国科学技术大学（University of Science and Technology of China）攻读计算机专业博士，我的导师是[李向阳教授](https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm)（ACM Fellow, IEEE Fellow）。我的研究兴趣是**复杂网络中人工智能模型推理优化**（主要方向），也涉及研究物联网智能感知领域。我的简历[here](/files/张钧洋_USTC_CV_online.pdf)（实时更新），欢迎通过邮件与我联系。
+我目前在中国科学技术大学计算机学院 LINKE 实验室从事博士后研究，博士期间师从[李向阳教授](https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm)（ACM Fellow, IEEE Fellow）。我的研究兴趣主要包括高效推理、工业智能等，也涉及物联网智能感知与智能模型安全。我的[个人简历](/files/CV_Junyang_Zhang.pdf)可供下载，欢迎通过邮件与我联系。
 
 
 # 🎓 Education
-- **2022.09 - 至今**&emsp;<a href="https://ustc.edu.cn/" style="color: inherit;">中国科学技术大学</a> 计算机学院 攻读计算机专业博士研究生。
+- **2022.09 - 2026**&emsp;<a href="https://ustc.edu.cn/" style="color: inherit;">中国科学技术大学</a> 计算机学院，计算机专业博士研究生。
 - **2020.09 - 2022.06**&emsp;<a href="https://ustc.edu.cn/" style="color: inherit;">中国科学技术大学</a> 计算机学院 攻读计算机专业硕士研究生。
 - **2016.09 - 2020.06**&emsp;<a href="https://www.cqu.edu.cn/" style="color: inherit;">重庆大学(985)</a> 弘深学院/计算机学院 获得计算机专业本科学位。
 
 # 📰 News
-- **[2025.04]** 🎉 我以第一作者身份在 **CCF B类会议IWQoS 2025** 上发表了一篇论文，感谢老师的指导和同学的帮助！
-- **[2025.02]** 🎉 我在美国费城AAAI'25上进行了Oral报告，展示材料可参见[slides](/files/slides_2938_oral.pdf)，旅途摄影分享见[blog](/posts/2025/03/photography-1/)。
-- **[2025.02]** 🎉 [USTC DeepSeek](https://chat.ustc.edu.cn/)正式上线！我深度参与学校的DeepSeek服务开发中，并负责了昇腾集群上的模型部署和一些其他辅助工作，也踩了不少坑，可以参见[blog](/posts/2025/02/thinking-4/)。
-- **[2024.12]** 🎉 我们与蔚来汽车公司的智能座舱大模型推理优化合作项目圆满结束，我以第一作者发表论文工作被**CCF A类会议AAAI**录用！
-- **[2024.12]** 🎉 我以共同一作身份在**CCF A类会议INFCOM**上发表论文，感谢Bowen Zhang、Jiahui Hou等所有作者的努力！
-- **[2024.11]** 🎉 在 **泛在智能感知技术创新应用大赛** 中获得三等奖。
-- **[2024.10]** 🎉 我以合作者身份参与**CCF A类中文期刊计算机学报**上发表一篇论文，感谢老师的指导和每一位同学的努力！
-- **[2024.08]** 🎉 我以第一作者身份在 **CCF A类期刊TMC(SCI一区Top)** 上发表一篇论文，感谢老师的指导和同学的帮助！
+- **[2026.10]** 🎓 从中国科学技术大学计算机学院博士毕业。
+
+# 🏅 Awards
+- **2026** 中国科学院院长奖
+- **2025** 博士研究生国家奖学金
+- **2025** 中国科协青年托举人才博士生专项
 
 # 📚 Publications
-1. <span style="color: red; font-weight: bold;">[AAAI'25 Oral]</span> **A-VL: Adaptive Attention for Large Vision-Language Models.**  [[paper](https://arxiv.org/abs/2409.14846)] [[code](https://github.com/jyzzz98/A-VL-Adaptive-Attention-for-Large-Vision-Language-Models)] [[slide](/files/slides_2938_oral.pdf)]  
+1. **A-VL: Adaptive Attention for Large Vision-Language Models.** [[paper](https://arxiv.org/abs/2409.14846)] [[code](https://github.com/jyzzz98/A-VL-Adaptive-Attention-for-Large-Vision-Language-Models)] [[slide](/files/slides_2938_oral.pdf)]  
    **Junyang Zhang**, Mu Yuan, Ruiguang Zhong, Puhan Luo, Huiyou Zhan, Ningkang Zhang, Chengchen Hu, Xiangyang Li.  
-   *The 39th Annual AAAI Conference on Artificial Intelligence* **(AAAI 2025, CCF-A)**
+   *AAAI 2025*, 39(21): 22461–22469.（第一作者）
 
-3. <span style="color: red; font-weight: bold;">[TMC'24]</span> **WordWhisper: Exploiting Real-Time, Hardware-Dependent IoT Communication Against Eavesdropping.**  
-   **Junyang Zhang**; Jiahui Hou; Ye Tian; Xiang-Yang Li.  
-   *IEEE Transactions on Mobile Computing* **(IEEE TMC, CCF-A, 中科院一区Top, JCR Q1)**
+2. **WordWhisper: Exploiting Real-Time, Hardware-Dependent IoT Communication Against Eavesdropping.**  
+   **Junyang Zhang**, Jiahui Hou, Ye Tian, Xiang-Yang Li.  
+   *IEEE Transactions on Mobile Computing*, 2025, 24(1): 15–29.（第一作者）
 
-4. <span style="color: red; font-weight: bold;">[INFOCOM'25]</span> **TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
-   Bowen Zhang, **Junyang Zhang(共同一作)**, Jiahui Hou and Yixin Wang.  
-   *IEEE Conference on Computer Communications* **(IEEE INFOCOM, CCF-A)**
+3. **Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.**  
+   **Junyang Zhang**, Jiahui Hou, Bowen Zhang, Xiang-Yang Li.  
+   *IEEE/ACM IWQoS 2025*: 1–10.（第一作者）
 
-5. <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.**  
-   **Junyang Zhang**, Jiahui Hou, Bowen Zhang and Xiang-Yang Li.  
-   *IEEE/ACM International Symposium on Quality of Service* **(IEEE/ACM IWQoS, CCF-B)**
-   
-6. <span style="color: red; font-weight: bold;">[计算机学报]</span> **面向智能物联网的资源高效模型推理综述**  
-   袁牧，张兰，姚云昊，**张钧洋**，罗溥晗，李向阳.   
-   *CHINESE JOURNAL OF COMPUTERS 计算机学报* **(中文CCF-A)**
+4. **TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
+   Bowen Zhang, **Junyang Zhang**, Jiahui Hou, Yixin Wang.  
+   *IEEE INFOCOM 2025*: 1–10.（共同第一作者）
 
-7. [PrePrint] **PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.**  
-   Huiyou Zhan, Xuan Zhang, Haisheng Tan, Han Tian, Dongping Yong, **Junyang Zhang**, Xiang-Yang Li.   
-   *arXiv*
- 
-8. [PrePrint] **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
-   Qihao Lin, Chen Tang, Lan zhang, **Junyang zhang**, Xiangyang Li.   
-   *arXiv* 
+5. **LightMoE: Task-Aware Expert Availability Management for Memory-Efficient MoE-LLM Inference.**  
+   P. Luo, Y. Yao, J. Wang, **Junyang Zhang**, X.-Y. Li.  
+   *Findings of ACL 2026*: 21124–21134.（通讯作者）
+
+6. **CALSI: Context-Aware Layer Skipping Inference for On-Device LLM Serving.**  
+   Puhan Luo, Mu Yuan, Ningkang Zhang, Ruiguang Zhong, **Junyang Zhang**, Chengchen Hu, Xiang-Yang Li.  
+   *IEEE Transactions on Mobile Computing*, 2026, 25(10): 17863–17878.（通讯作者）
+
+7. **FlexiTensor: Adaptive Multi-Task Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
+   Bowen Zhang, Jiahui Hou, **Junyang Zhang**.  
+   *IEEE Transactions on Parallel and Distributed Systems*, 2026, 37(9): 2078–2094.（合作论文）
+
+8. **面向智能物联网的资源高效模型推理综述**  
+   袁牧，张兰，姚云昊，**张钧洋**，罗溥晗，李向阳。  
+   *计算机学报*，2024，47(10)：2247–2273。（合作论文）
+
+[更多预印本论文见 arXiv。]
 
 
 # 📝 Research
@@ -67,11 +71,13 @@ redirect_from:
 - 【应用项目】**蔚来汽车校企合作项目“基于大模型的智能座舱推理优化”**中负责研究多模态大模型计算优化，降低计算负载、减少推理时延并且降低KV Cache显存占用。
 - 【应用项目】**华为校企合作项目“端侧AI能效比提升”**中负责研究异构算力下的大模型分布式推理优化，提升异构算力下的推理吞吐，提高资源利用率。
 - 【应用项目】**百度校企合作项目“面向ESG专业领域问答系统”**中参与研发行业知识库和大模型问答系统，针对垂直领域知识问答进行真实系统优化。
-- 【论文一作】【CCF A】A-VL: Adaptive Attention for Large Vision-Language Models.
-- 【论文一作】【CCF B】Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.
-- 【论文共一】【CCF A】TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.
-- 【论文合作】PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.
-- 【论文合作】【CCF A】面向智能物联网的资源高效模型推理综述。
+- 【论文一作】【AAAI 2025】A-VL: Adaptive Attention for Large Vision-Language Models.
+- 【论文一作】【IWQoS 2025】Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.
+- 【论文共一】【INFOCOM 2025】TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.
+- 【通讯作者】【Findings of ACL 2026】LightMoE: Task-Aware Expert Availability Management for Memory-Efficient MoE-LLM Inference.
+- 【通讯作者】【IEEE TMC 2026】CALSI: Context-Aware Layer Skipping Inference for On-Device LLM Serving.
+- 【合作论文】【IEEE TPDS 2026】FlexiTensor: Adaptive Multi-Task Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.
+- 【合作论文】【计算机学报】面向智能物联网的资源高效模型推理综述。
 
 ### 智能无线感知
 
